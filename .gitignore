@@ -1,0 +1,4 @@
+.vscode
+build
+dist
+mailcheck.egg-info
