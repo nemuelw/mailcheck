@@ -1,3 +1,3 @@
 # mailcheck
 
-Python library for the MailCheck.ai API
+Python wrapper for the MailCheck.ai API
