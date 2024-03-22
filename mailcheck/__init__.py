@@ -1,1 +1,1 @@
-from .mailcheck import *
+from .mailcheck import MailCheckClient
