@@ -2,4 +2,3 @@
 build
 dist
 mailcheck.egg-info
-test.py
